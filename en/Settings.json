@@ -180,6 +180,6 @@
 		
 		"OPTION_REBIND_CANCELLED_DIALOG_DESCRIPTION": "Rebinding cancelled.",
 		
-		"SETTINGS_PROFILE_NAME_FORMAT": "Settings - <style=cUserSetting>{0}</style>",
+		"SETTINGS_PROFILE_NAME_FORMAT": "Settings - <style=cUserSetting>{0}</style>"
 	}
 }
