@@ -118,7 +118,7 @@
 
 	"ITEM_HEALWHILESAFE_NAME": "Cautious Slug",
 	"ITEM_HEALWHILESAFE_PICKUP": "Rapidly heal outside of danger.",
-	"ITEM_HEALWHILESAFE_DESC": "Increases <style=cIsHealing>base health regeneration</style> by <style=cIsHealing>+4 hp/s</style> <style=cStack>(+4 hp/s per stack)</style>while outside of combat.",
+	"ITEM_HEALWHILESAFE_DESC": "Increases <style=cIsHealing>base health regeneration</style> by <style=cIsHealing>+3 hp/s</style> <style=cStack>(+3 hp/s per stack)</style>while outside of combat.",
 
 	"ITEM_JUMPBOOST_NAME": "Wax Quail",
 	"ITEM_JUMPBOOST_PICKUP": "Jumping while sprinting boosts you forward.",
@@ -285,7 +285,7 @@
 
 	"ITEM_REPEATHEAL_NAME": "Corpsebloom",
 	"ITEM_REPEATHEAL_PICKUP": "Double your healing... <color=#FF7F7F>BUT it's applied over time.</color>\n",
-	"ITEM_REPEATHEAL_DESC": "<style=cIsHealing>Heal +100%</style> <style=cStack>(+100% per stack)</style> more. <style=cIsHealing>All healing is applied over time</style>. Can <style=cIsHealing>heal</style> for a <style=cIsHealing>maximum</style> of <style=cIsHealing>10%</style> (reduced by 50% per stack) of your <style=cIsHealing>health per second</style>.",	
+	"ITEM_REPEATHEAL_DESC": "<style=cIsHealing>Heal +100%</style> <style=cStack>(+100% per stack)</style> more. <style=cIsHealing>All healing is applied over time</style>. Can <style=cIsHealing>heal</style> for a <style=cIsHealing>maximum</style> of <style=cIsHealing>10%</style> <style=cStack>(-50% per stack)</style> of your <style=cIsHealing>health per second</style>.",	
 	
 	"ITEM_AUTOCASTEQUIPMENT_NAME": "Gesture of the Drowned",
 	"ITEM_AUTOCASTEQUIPMENT_PICKUP": "Dramatically reduce Equipment cooldown... <color=#FF7F7F>BUT it automatically activates.</color>",

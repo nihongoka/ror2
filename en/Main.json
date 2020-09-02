@@ -142,7 +142,7 @@
 		"KICK_REASON_ACCOUNT_ALREADY_ON_SERVER" : "Your account is already in use on the server you attempted to connect to.",
 		"KICK_REASON_MALFORMED_AUTH_DATA" : "Your request to join the server was malformed.",
 		"KICK_REASON_STEAMWORKS_AUTH_FAILURE" : "Steamworks authentication failed or was revoked: {0}",
-		"KICK_REASON_MOD_MISMATCH" : "Your mods differ from the server's mods. The game sessions cannot communicate. == Incompatible Mods ==\n{0}\n\n== Required Mods ==\n{1}\n",
+		"KICK_REASON_MOD_MISMATCH" : "Your mods differ from the server's mods. The game sessions cannot communicate.\n\n== Incompatible Mods ==\n{0}\n\n== Required Mods ==\n{1}\n",
 
 		"LEADERBOARDS" : "Leaderboards",
 		"LEADERBOARDS_GLOBAL" : "GLOBAL",
