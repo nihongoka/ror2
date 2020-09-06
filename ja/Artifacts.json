@@ -8,7 +8,7 @@
         "ARTIFACT_ENIGMA_DESCRIPTION": "使用するたびにランダムで切り替わる装備品を所持した状態で開始する。",
         "ARTIFACT_SACRIFICE_NAME": "犠牲のアーティファクト",
         "ARTIFACT_SACRIFICE_DESCRIPTION": "モンスターが死亡時にアイテムをドロップするようになるが、代わりにチェストが出現しなくなる。",
-        "ARTIFACT_SPIRIT_NAME": "（未実装）精霊のアーティファクト",
+        "ARTIFACT_SPIRIT_NAME": "(未実装)精霊のアーティファクト",
         "ARTIFACT_SPIRIT_DESCRIPTION": "(未実装)瀕死状態になると移動速度が上がる効果が、敵味方全員につく。"
     }
 }
