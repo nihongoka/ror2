@@ -1,5 +1,23 @@
 {
     "strings": {
-        "GAME_TITLE": "スペースゲーム 2017"
+        "GAME_TITLE": "スペースゲーム 2017",
+        "TITLE_PROFILE": "プロファイル: {0}",
+        "TITLE_SINGLEPLAYER": "シングルプレイ",
+        "TITLE_SETTINGS": "設定",
+        "TITLE_ECLIPSE": "エクリプス",
+        "TITLE_MULTIPLAYER": "マルチプレイ",
+        "TITLE_LOGS": "ログブック",
+        "MORE_MUSIC": "音楽",
+        "MORE_LICENSE": "ライセンス",
+        "DEFAULT_FONT": "TmpFonts/Noto/NotoSans-Regular SDF(ROOT Extended ASCII + Turkish)",
+        "TITLE_PROFILE_DESC": "プロフィールを作成するか変更する。",
+        "TITLE_WEEKLY": "プリスマティックトライアル",
+        "TITLE_EXIT_DESC": "Risk of Rain 2 を終了する。",
+        "TITLE_UNLOCKABLES": "チャレンジ",
+        "TITLE_MORE": "音楽 & その他",
+        "TITLE_EXIT": "デスクトップへ戻る",
+        "TITLE_MULTIPLAYER_INVITE": "フレンドを招待",
+        "TITLE_MULTIPLAYER_RETURN": "戻る",
+        "TITLE_MULTIPLAYER_FIND_GAME": "マルチプレイゲームに参加"
     }
 }
