@@ -18,6 +18,7 @@
         "TITLE_EXIT": "デスクトップへ戻る",
         "TITLE_MULTIPLAYER_INVITE": "フレンドを招待",
         "TITLE_MULTIPLAYER_RETURN": "戻る",
-        "TITLE_MULTIPLAYER_FIND_GAME": "マルチプレイゲームに参加"
+        "TITLE_MULTIPLAYER_FIND_GAME": "マルチプレイゲームに参加",
+        "ITEM_PREFIX_STACKCOUNT": "過去最高スタック数: <style=cEvent>x{0}</style>"
     }
 }
