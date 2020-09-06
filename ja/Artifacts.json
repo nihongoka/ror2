@@ -1,1 +1,7 @@
-{}
+{
+    "strings": {
+        "ARTIFACT_BOMB_NAME": "悪意のアーティファクト",
+        "ARTIFACT_GLASS_NAME": "ガラスのアーティファクト",
+        "ARTIFACT_GLASS_DESCRIPTION": "味方全員のダメージを500%増加させるが、最大ヘルスが10%になる。"
+    }
+}
