@@ -1,5 +1,25 @@
 {
     "strings": {
-        "ITEM_CLOVER_NAME": "57枚葉のクローバー"
+        "ITEM_CLOVER_NAME": "57枚葉のクローバー",
+        "ITEM_PICKUP_CONTEXT": "{0}を入手",
+        "EQUIPMENT_PICKUP_CONTEXT": "{0}を入手",
+        "EQUIPMENT_SWAP_CONTEXT": "{0}と交換",
+        "ITEM_CLOVER_PICKUP": "運は汝の味方なり。",
+        "ITEM_CLOVER_DESC": "全ランダム効果が<style=cIsUtility>+1</style> <style=cStack>(スタック毎に+1)</style>回<style=cIsUtility>いい効果が出るまで再抽選される</style>。",
+        "ITEM_SYRINGE_NAME": "ソルジャーシリンジ",
+        "ITEM_SYRINGE_PICKUP": "攻撃速度が増加する。",
+        "ITEM_SYRINGE_DESC": "<style=cIsDamage>攻撃速度</style>が<style=cIsDamage>15%<style=cStack>(+15% スタック毎に)</style></style>増加する。",
+        "ITEM_BEAR_NAME": "タフタイム",
+        "ITEM_BEAR_PICKUP": "ダメージを無効化する確率を得る。",
+        "ITEM_BEAR_DESC": "<style=cIsHealing>15%</style><style=cStack>(スタック毎に+15%)</style>の確率で<style=cIsHealing>block</style>無効化する。 <style=cIsUtility>運の影響を受けない</style>。",
+        "ITEM_BEHEMOTH_PICKUP": "すべての攻撃が爆発する!",
+        "ITEM_MISSILE_NAME": "対戦車ミサイル Mk.1",
+        "ITEM_MISSILE_DESC": "<style=cIsDamage>10%</style>の確率で<style=cIsDamage>300%</style><style=cStack>(スタック毎に+300%)</style>の合計ダメージを与えるミサイルを発射する。",
+        "ITEM_MISSILE_PICKUP": "ダメージを与えたときミサイルを発射する可能性を得る。",
+        "ITEM_EXPLODEONDEATH_NAME": "ウィルオーザウィスプ",
+        "ITEM_EXPLODEONDEATH_PICKUP": "敵を倒すと爆発する。",
+        "ITEM_BEHEMOTH_NAME": "ブリリアントベヒーモス",
+        "ITEM_BEHEMOTH_DESC": "全ての<style=cIsDamage>攻撃</style>が<style=cIsDamage>4m</style> <style=cStack>(スタック毎に+1.5m)</style>の<style=cIsDamage>爆発</style>を起こし、範囲内の敵に合計<style=cIsDamage>60%</style>のダメージを与える。",
+        "ITEM_EXPLODEONDEATH_DESC": "敵を倒したとき、半径<style=cIsDamage>12m</style><style=cStack>(スタック毎に+2.4m)</style>の<style=cIsDamage>溶岩の柱</style>が出現し、<style=cIsDamage>350%</style><style=cStack>(スタック毎に+280%)</style>のダメージを与える。"
     }
 }
