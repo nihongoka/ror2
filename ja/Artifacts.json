@@ -2,6 +2,12 @@
     "strings": {
         "ARTIFACT_BOMB_NAME": "悪意のアーティファクト",
         "ARTIFACT_GLASS_NAME": "ガラスのアーティファクト",
-        "ARTIFACT_GLASS_DESCRIPTION": "味方全員のダメージを500%増加させるが、最大ヘルスが10%になる。"
+        "ARTIFACT_GLASS_DESCRIPTION": "味方全員のダメージを500%増加させるが、最大ヘルスが10%になる。",
+        "ARTIFACT_BOMB_DESCRIPTION": "敵が死亡時に複数の爆弾を落とす。",
+        "ARTIFACT_ENIGMA_NAME": "エニグマのアーティファクト",
+        "ARTIFACT_ENIGMA_DESCRIPTION": "使用するたびにランダムで切り替わる装備品を所持した状態で開始する。",
+        "ARTIFACT_SACRIFICE_NAME": "犠牲のアーティファクト",
+        "ARTIFACT_SACRIFICE_DESCRIPTION": "モンスターが死亡時にアイテムをドロップするようになるが、代わりにチェストが出現しなくなる。",
+        "ARTIFACT_SPIRIT_NAME": "（未実装）精霊のアーティファクト"
     }
 }
