@@ -1,1 +1,8 @@
-{}
+{
+    "strings": {
+        "LOBBY_DEFAULT_NAME_FORMAT": "{0}のロビー",
+        "LOBBY_CONTROL_PANEL_NAME": "ロビー",
+        "LOBBY_CONTROL_PANEL_LEAVE": "ロビーを退出",
+        "LOBBY_CONTROL_PANEL_CREATE": "ロビーを作成"
+    }
+}
