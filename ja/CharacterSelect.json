@@ -1,1 +1,20 @@
-{}
+{
+    "strings": {
+        "SURVIVOR_OVERVIEW": "概観",
+        "SURVIVOR_SKILLS": "スキル",
+        "SURVIVOR_LOADOUT": "ロードアウト",
+        "CHARACTER_SELECT_READY": "準備完了",
+        "CHARACTER_SELECT_LOCKED_IN": "固定化",
+        "LOADOUT_SKILL_PRIMARY": "プライマリー",
+        "LOADOUT_SKILL_SECONDARY": "セカンダリー",
+        "LOADOUT_SKILL_UTILITY": "ユーティリティ",
+        "LOADOUT_SKILL_SPECIAL": "スペシャル",
+        "LOADOUT_SKILL_MISC": "その他",
+        "LOADOUT_SKIN": "スキン",
+        "RANDOM_VOTE_NAME": "ランダム",
+        "RANDOM_VOTE_DESCRIPTION": "ランダム選択に投票。",
+        "CHARACTER_SELECT_TITLE": "キャラクター選択",
+        "CHARACTER_SELECT_SELECT_SURVIVOR": "サバイバーを選択",
+        "CHARACTER_DESCRIPTION_AND_UNLOCK_FORMAT": "{0}\n\n{1}"
+    }
+}
