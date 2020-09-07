@@ -1,1 +1,24 @@
-{}
+{
+    "strings": {
+        "ACTION_JUMP": "ジャンプ",
+        "ACTION_SPRINT": "スプリントの切り替え",
+        "ACTION_INTERACT": "インタラクト",
+        "ACTION_EQUIPMENT": "装備品を起動",
+        "ACTION_PRIMARY_SKILL": "プライマリースキル",
+        "ACTION_SECONDARY_SKILL": "セカンダリースキル",
+        "ACTION_UTILITY_SKILL": "ユーティリティスキル",
+        "ACTION_SPECIAL_SKILL": "スペシャルスキル",
+        "ACTION_INFO": "ステータス画面",
+        "ACTION_MOVE_VERTICAL_POSITIVE": "前進",
+        "ACTION_MOVE_VERTICAL_NEGATIVE": "後退",
+        "ACTION_MOVE_HORIZONTAL_POSITIVE": "右に動く",
+        "ACTION_MOVE_HORIZONTAL_NEGATIVE": "左に動く",
+        "ACTION_PING": "マーカーを立てる",
+        "ACTION_MOVE_HORIZONTAL": "水平移動",
+        "ACTION_MOVE_VERTICAL": "垂直移動",
+        "ACTION_AIM_HORIZONTAL_MOUSE": "水平に狙う",
+        "ACTION_AIM_VERTICAL_MOUSE": "垂直に狙う",
+        "ACTION_AIM_HORIZONTAL_STICK": "水平に狙う",
+        "ACTION_AIM_VERTICAL_STICK": "垂直に狙う"
+    }
+}
