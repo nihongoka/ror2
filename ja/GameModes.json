@@ -1,1 +1,6 @@
-{}
+{
+    "strings": {
+        "GAMEMODE_CLASSIC_RUN_NAME": "クラシック",
+        "GAMEMODE_WEEKLY_RUN_NAME": "プリズマティック　トライアル"
+    }
+}
