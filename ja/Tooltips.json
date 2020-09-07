@@ -1,1 +1,21 @@
-{}
+{
+    "strings": {
+        "TOOLTIP_TIME_DIFFICULTY": "難易度は<i>いかなる時も</i>上昇し続ける - 早くケリをつけろ！",
+        "TOOLTIP_EQUIPMENT": "<color=orange>装備品</color>は強力なアクティブアイテムだ。",
+        "TOOLTIP_SPRINT": "スプリントでマップを駆け巡れ！",
+        "TOOLTIP_WIP_CONTENT_NAME": "開発中",
+        "TOOLTIP_WIP_CONTENT_DESCRIPTION": "このコンテンツはまだ開発中です。お楽しみに！",
+        "TOOLTIP_UNLOCK_LOG_NAME": "ログブックを開放した",
+        "TOOLTIP_UNLOCK_LOG_DESCRIPTION": "この項目がログブックに追加された。",
+        "TOOLTIP_UNLOCK_ITEM_NAME": "アイテムを開放した",
+        "TOOLTIP_UNLOCK_ITEM_DESCRIPTION": "このアイテムがゲーム中に出現するようになった。",
+        "TOOLTIP_UNLOCK_EQUIPMENT_NAME": "装備品を開放した",
+        "TOOLTIP_UNLOCK_EQUIPMENT_DESCRIPTION": "この装備品がゲーム中に出現するようになった。",
+        "TOOLTIP_UNLOCK_SURVIVOR_NAME": "サバイバーを開放した",
+        "TOOLTIP_UNLOCK_SURVIVOR_DESCRIPTION": "このサバイバーが使えるようになった。",
+        "TOOLTIP_UNLOCK_ARTIFACT_NAME": "アーティファクトを開放した",
+        "TOOLTIP_UNLOCK_ARTIFACT_DESCRIPTION": "このアーティファクトが使えるようになった。",
+        "TOOLTIP_UNLOCK_GENERIC_NAME": "開放した",
+        "TOOLTIP_UNLOCK_GENERIC_DESCRIPTION": "このコンテンツが使えるようになった。"
+    }
+}
