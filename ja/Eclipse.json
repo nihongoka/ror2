@@ -1,1 +1,23 @@
-{}
+{
+    "strings": {
+        "ECLIPSE_GAMEMODE_START": "エクリプス開始",
+        "ECLIPSE_1_NAME": "エクリプス (1)",
+        "ECLIPSE_2_NAME": "エクリプス (2)",
+        "ECLIPSE_3_NAME": "エクリプス (3)",
+        "ECLIPSE_4_NAME": "エクリプス (4)",
+        "ECLIPSE_5_NAME": "エクリプス (5)",
+        "ECLIPSE_6_NAME": "エクリプス (6)",
+        "ECLIPSE_7_NAME": "エクリプス (7)",
+        "ECLIPSE_8_NAME": "エクリプス (8)",
+        "ECLIPSE_2_DESCRIPTION": "ベースラインの難易度「暴風雨」で開始。<style=cSub>\n\n<mspace=0.5em>(1)</mspace>味方のスタート時のヘルス: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> テレポーターの半径: <style=cIsHealth>-50%</style></style>",
+        "ECLIPSE_GAMEMODE_NAME": "エクリプス",
+        "ECLIPSE_GAMEMODE_DESCRIPTION": "<style=cIsUtility>エクリプス</style>は、チャレンジが蓄積されていくゲームモードです。\n\nあなたが<style=cIsUtility>ゲームをクリアする</style>たびに、 サバイバーのエクリプスレベルが <style=cIsUtility>永続的に</style>、 最大 <style=cIsUtility>8</style>レベルまで増加します。",
+        "ECLIPSE_1_DESCRIPTION": "ベースラインの難易度「暴風雨」で開始。<style=cSub>\n\n<mspace=0.5em>(1)</mspace>味方のスタート時のヘルス: <style=cIsHealth>-50%</style></style>",
+        "ECLIPSE_3_DESCRIPTION": "ベースラインの難易度「暴風雨」で開始。<style=cSub>\n\n<mspace=0.5em>(1)</mspace>味方のスタート時のヘルス: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> テレポーターの半径: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> 味方の落下ダメージ: <style=cIsHealth>+100% および落下死するようになる</style></style>",
+        "ECLIPSE_4_DESCRIPTION": "ベースラインの難易度「暴風雨」で開始。<style=cSub>\n\n<mspace=0.5em>(1)</mspace>味方のスタート時のヘルス: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> テレポーターの半径: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> 味方の落下ダメージ: <style=cIsHealth>+100% および落下死するようになる</style>\n<mspace=0.5em>(4)</mspace> 敵の速度: <style=cIsHealth>+40%</style></style>",
+        "ECLIPSE_5_DESCRIPTION": "ベースラインの難易度「暴風雨」で開始。<style=cSub>\n\n<mspace=0.5em>(1)</mspace>味方のスタート時のヘルス: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> テレポーターの半径: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> 味方の落下ダメージ: <style=cIsHealth>+100% および落下死するようになる</style>\n<mspace=0.5em>(4)</mspace> 敵の速度: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5)</mspace> 味方の回復量: <style=cIsHealth>-50%</style></style>",
+        "ECLIPSE_6_DESCRIPTION": "ベースラインの難易度「暴風雨」で開始。<style=cSub>\n\n<mspace=0.5em>(1)</mspace>味方のスタート時のヘルス: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> テレポーターの半径: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> 味方の落下ダメージ: <style=cIsHealth>+100% および落下死するようになる</style>\n<mspace=0.5em>(4)</mspace> 敵の速度: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5)</mspace> 味方の回復量: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(6)</mspace> 敵が落とすゴールドの量: <style=cIsHealth>-20%</style></style>",
+        "ECLIPSE_7_DESCRIPTION": "ベースラインの難易度「暴風雨」で開始。<style=cSub>\n\n<mspace=0.5em>(1)</mspace>味方のスタート時のヘルス: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> テレポーターの半径: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> 味方の落下ダメージ: <style=cIsHealth>+100% および落下死するようになる</style>\n<mspace=0.5em>(4)</mspace> 敵の速度: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5)</mspace> 味方の回復量: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(6)</mspace> 敵が落とすゴールドの量: <style=cIsHealth>-20%</style>\n<mspace=0.5em>(7)</mspace> 敵のスキルクールダウン: <style=cIsHealth>-50%</style></style>",
+        "ECLIPSE_8_DESCRIPTION": "\"光を称えよ…それを許してやろう。\"\n\nベースラインの難易度「暴風雨」で開始。<style=cSub>\n\n<mspace=0.5em>(1)</mspace>味方のスタート時のヘルス: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> テレポーターの半径: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> 味方の落下ダメージ: <style=cIsHealth>+100% および落下死するようになる</style>\n<mspace=0.5em>(4)</mspace> 敵の速度: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5)</mspace> 味方の回復量: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(6)</mspace> 敵が落とすゴールドの量: <style=cIsHealth>-20%</style>\n<mspace=0.5em>(7)</mspace> 敵のスキルクールダウン: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(8)</mspace> 味方が <style=cIsHealth>永続的なダメージ</style>を受ける</style></style>"
+    }
+}
