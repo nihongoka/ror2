@@ -1,1 +1,5 @@
-{}
+{
+    "strings": {
+        "STAT_NAME_VALUE_FORMAT": "{0}: <color=#FFFF7F>{1}</color>"
+    }
+}
