@@ -11,6 +11,6 @@ Risk of Rain 2 の非公式日本語訳リポジトリです
 `en` フォルダ内のファイルは原文で、`Hoopoo Games`の著作物です
 
 ## 作業所
-https://weblate.aoisensi.info/projects/ror2/
+https://nihongoka.games/projects/ror2/
 
 ここから翻訳の提案、編集ができます
